@@ -1,5 +1,5 @@
 # ImmaculateDLP
-Ayazel's Immaculate YT-DLP Interface for macOS, using Apple Shortcuts
+This is my simpe, yet stylish and classy YT-DLP interface. It allows you to download almost any kind of video or audio content from the Internet. It was made using Apple Shortcuts and a heavy dose of **Bash**, which explains why **it is only compatible with macOS (!!!)** at the moment.
 
 Official YT-DLP repository: https://github.com/yt-dlp/yt-dlp
 

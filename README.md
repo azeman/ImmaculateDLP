@@ -1,14 +1,30 @@
-# ImmaculateDLP
-This is my simpe, yet stylish and classy YT-DLP interface. It allows you to download almost any kind of video or audio content from the Internet. It was made using Apple Shortcuts and a heavy dose of **Bash**, which explains why **it is only compatible with macOS (!!!)** at the moment.
+# ImmaculateDLP ☕️
+Stylish and classy YT-DLP interface with Apple Shortcuts.
+Download almost any video or audio content off the Internet. 
 
-Official YT-DLP repository: https://github.com/yt-dlp/yt-dlp
+Made using Apple Shortcuts and a heavy dose of **Bash**, which 
+explains why **it is only compatible with macOS (!!!)** at the moment.
 
-This interface provides extensive audio feedback, something that is quite lacking in most software nowadays. **Every single button makes sound!!!!!** Except for the Cancel button, as it is hard-coded by Apple, unfortunately.
+[Insert a few pics here]
+
+# Installation
+Get it here : [INSERT LINK HERE]
 
 # How to use
-Get the shortcut from here: [INSERT LINK HERE]
-
 Launch shortcut directly or through the Share button. 
 
+This interface provides extensive audio feedback.
+**Every single button makes sound!!!!!** Except for the Cancel button.
+
 # About QUICK MODE
-‘Quick Mode’ is a way to get stuff done faster. Instead of navigating through menus, your file is downloaded immediately, at the cost of less flexibility. How to disable: Launch shortcut directly WITHOUT ANY URL in your clipboard.
+‘Quick Mode’ is a way to get stuff done faster.
+☁️ It is deactivated by default.
+☁️ To deactivate, run shortcut directly without any URL in your clipboard.
+✅ It will download files instantly as soon as you run the shortcut.
+🚫 It will **not** ask for user confirmation before downloading.
+🚫 It will **not** print a message when the download is over.
+🚫 It will **not** open the download directory either.
+
+# Credits
+yt-dlp : https://github.com/yt-dlp/yt-dlp
+ImmaculateDLP created by Ayazel.

@@ -7,4 +7,4 @@ assignees: azeman
 
 ---
 
-**Please PASTE (⌘+V) your log below**
+⬇️ Please PASTE (⌘+V) your log below ⬇️
